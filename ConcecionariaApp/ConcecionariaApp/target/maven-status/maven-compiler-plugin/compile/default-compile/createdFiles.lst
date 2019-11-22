@@ -1,0 +1,5 @@
+com\escuela\usuario\valido\repository\VehiculoRepository.class
+com\escuela\usuario\valido\dominio\Usuario.class
+com\escuela\usuario\valido\Controller\MyController.class
+com\escuela\usuario\valido\dominio\Vehiculo.class
+com\escuela\usuario\valido\Main.class
